@@ -1,5 +1,8 @@
 <h1> Rubik’s Cube in Python </h1>
 
+![rubiks-cube-app-using-python](https://github.com/eriksensousa/Rubiks-Cube/assets/126014537/b00b0880-3943-4e39-9a4b-cbe6e69bd0b1)
+
+
 <h2> Introduction </h2> 
 
 Rubik’s Cube is a popular 3D puzzle game that has been enjoyed by people of all ages for decades. With the rise of computer science and programming, it is now possible to simulate and solve the Rubik’s Cube using code. In this project, we will explore how to create a Rubik’s Cube simulator and solver using the Python programming language.
