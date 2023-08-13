@@ -25,4 +25,4 @@ By following these steps, you will be able to create a fully functional Rubik’
 
 In conclusion, creating a Rubik’s Cube simulator and solver using Python is an interesting and challenging project that can help you improve your programming skills. By using libraries like rubiks-cube and Pygame, you can easily create a working Rubik’s Cube simulator and solver in Python.
 
-## Author: Eriksen Sousa
+Author: Eriksen Sousa
